@@ -1,4 +1,4 @@
-baseurl = "https://devkitty.io/"
+baseurl = "http://flatsat.org/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
