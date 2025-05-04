@@ -16,13 +16,13 @@ Like a real space mission, our team is an international collaboration formed by 
 
 ### 🇺🇸 Alex Lynd  
 **Hardware hacker & Cybersecurity Instructor**  
-Alex Lynd is a hardware hacker & cybersecurity instructor who builds low-cost wireless hacking tools at LyndLabs.  He creates educational hacking content on shows like Hak5, and also founded DevKitty, where he develops cat-themed hardware for makers & hackers!
+Alex Lynd is a hardware hacker & cybersecurity instructor who builds low-cost wireless hacking tools at LyndLabs.  He creates educational hacking content on shows like Hak5, and also founded [DevKitty](https://devkitty.io/), where he develops cat-themed hardware for makers & hackers!
 
 ---
 
 ### 🇨🇷 Romel Marin  
 **Senior Pentester & Aerospace Security Researcher**  
-Romel Marín is a senior pentester at IBM X-Force Red with 10+ years of experience in offensive security. He specializes in infrastructure, cloud, IoT, and aerospace security, and is co-author of a cybersecurity book. He’s also the founder of Defcon Costa Rica and organizer of PWNEDCR.
+Romel Marín is hacker at X-Force Red with 10+ years of experience in offensive security. He specializes in infrastructure, applications, IoT, and aerospace security, he is co-author of a cybersecurity book. He’s also the founder of Defcon Group DC11506 - Costa Rica and organizer of [PWNEDCR](https://www.pwnedcr.com/) Conference.
 
 ---
 
