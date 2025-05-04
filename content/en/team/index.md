@@ -31,4 +31,3 @@ Romel Marín is hacker at X-Force Red with 10+ years of experience in offensive 
 Kevin León is an embedded systems developer with expertise in low-level firmware development, hardware security, and RF communications. With experience in electronics and cybersecurity, he specializes in researching vulnerabilities in embedded devices, wireless systems, and satellite-related technologies.
 
 ---
-
