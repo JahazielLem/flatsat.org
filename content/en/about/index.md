@@ -10,7 +10,7 @@ images: []
 
 **Flatsat** is a hardware based training platform designed to be vulnerable — on purpose. It's built for hackers, engineers, and space enthusiasts who want to dive deep into space-grade systems, learn cybersecurity concepts, and prototype their own payloads.
 
-> Flatsat is part of the larger **[PwnSat Project](https://example.com/pwnsat)**, a complete space cybersecurity training course and mission-based CTF challenge where you’ll learn to attack, defend, and reverse engineer space firmware.
+> Flatsat is part of the larger **[PwnSat Project](http://pwnsat.org)**, a complete space cybersecurity training course and mission-based CTF challenge where you’ll learn to attack, defend, and reverse engineer space firmware.
 
 ### 🧩 What You Can Do With Flatsat
 
